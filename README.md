@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hi, I'm Kristian!</h1>
 
 <p align="center">
-  Building aviation software at <a href="https://foreflight.com/">ForeFliht</a>, helping pilots navigate the sky. ✈️🌍
+  Building aviation software at <a href="https://foreflight.com/">ForeFlight</a>, helping pilots navigate the sky. ✈️🌍
 </p>
 
 ---
